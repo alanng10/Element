@@ -47,3 +47,5 @@ Element has park kind arch benefit.
 Element has park kind arch marry.
 
 Element has park kind arch land.
+
+Element has major.
