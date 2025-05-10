@@ -48,4 +48,8 @@ Element has park kind arch marry.
 
 Element has park kind arch land.
 
+Element has park mark.
+
+Element has park cross.
+
 Element has major.
