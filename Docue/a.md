@@ -53,3 +53,5 @@ Element has park mark.
 Element has park cross.
 
 Element has major.
+
+Element has major on effect.
